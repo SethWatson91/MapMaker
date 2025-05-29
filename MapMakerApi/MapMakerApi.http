@@ -1,0 +1,6 @@
+@MapMakerApi_HostAddress = http://localhost:5010
+
+GET {{MapMakerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
